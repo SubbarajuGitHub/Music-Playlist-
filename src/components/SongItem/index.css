@@ -1,0 +1,42 @@
+.list-items-div {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.image {
+  height: 100px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+.first-div {
+  display: flex;
+}
+.second-div {
+  display: flex;
+  margin-right: 100px;
+  align-items: center;
+}
+.delete-button {
+  height: 50px;
+  margin-left: 50px;
+  background-color: transparent;
+  border-color: transparent;
+  color: white;
+}
+.name {
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 20px;
+}
+.genre {
+  color: #3b82f6;
+  font-family: roboto;
+  font-size: 20px;
+}
+.duration {
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 20px;
+}

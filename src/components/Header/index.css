@@ -1,0 +1,49 @@
+.main-bg {
+  height: 60vh;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.heading {
+  padding-top: 300px;
+  margin-left: 100px;
+  color: white;
+  font-family: roboto;
+}
+.singer {
+  margin-left: 100px;
+  color: white;
+  font-family: roboto;
+}
+.second-bg {
+  background-color: #152850;
+  padding-top: 10px;
+  margin-top: 0px;
+  min-height: 50vh;
+}
+.search-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.input {
+  height: 30px;
+  margin-right: 50px;
+  background-color: transparent;
+  color: white;
+  font-family: roboto;
+  font-size: 20px;
+}
+.heading-2 {
+  margin-left: 50px;
+  color: white;
+  font-family: roboto;
+}
+.nosongs {
+  color: white;
+  font-family: roboto;
+  text-align: center;
+}
+.track-image {
+  height: 450px;
+  width: 100%;
+}
